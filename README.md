@@ -1,4 +1,4 @@
-# GopalKatariya
-### hi there!👋🏻 
+# hi there!👋🏻
+### Gopal Katariya
 Ai Developer
 Flutter Developer
