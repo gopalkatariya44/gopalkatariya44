@@ -1,10 +1,8 @@
-![Professional Experience](https://user-images.githubusercontent.com/62513924/209214270-846e7951-de68-42cb-9414-9a99d6535d1f.gif)
+![Professional Experience](https://miro.medium.com/v2/resize:fit:1280/0*1fOKSM9na9IBROxm.gif)
 <div align="center">
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-
+<h3>Passionate about pioneering technology and unlocking insights through cutting-edge Computer Vision, Deep Learning, and Machine Learning techniques. Adept at harnessing the power of AWS cloud services to drive innovation and create transformative solutions. Excited to contribute to the dynamic landscape of AI and bring impactful ideas to life.</h3>
 <b><a href = "https://www.linkedin.com/in/gopalkatariya44/">LinkedIn Profile</a> | <a href= "https://medium.com/@gopalkatariya">Medium Profile</a> | <a href="#"> Google Scholar Profile </a></b><br><br>
-✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
-
 </div>
 
 
