@@ -1,4 +1,3 @@
-![Professional Experience](https://miro.medium.com/v2/resize:fit:1280/0*1fOKSM9na9IBROxm.gif)
 <div align="center">
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 <h3>Passionate about pioneering technology and unlocking insights through cutting-edge Computer Vision, Deep Learning, and Machine Learning techniques. Adept at harnessing the power of AWS cloud services to drive innovation and create transformative solutions. Excited to contribute to the dynamic landscape of AI and bring impactful ideas to life.</h3>
