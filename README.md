@@ -12,6 +12,9 @@
 
 <b> **My Project**</b>
 ### Project 1: TODO App
-<a href="https://github.com/gopalkatariya44/fastapi-todo"><img src="https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png?raw=true" height="200"></a>
+<a href="https://github.com/gopalkatariya44/fastapi-todo">
+<img src="https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png?raw=true" height="200">
+</a>
+
 Technologies: Fastapi, (HTML, CSS)
 Description: This is a fantastic app for task management.
