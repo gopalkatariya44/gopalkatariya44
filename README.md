@@ -12,10 +12,9 @@
 
 <b> **My Project**</b>
 <a href="https://github.com/gopalkatariya44/fastapi-todo">
-### Project 1: My Cool App
+### Project 1: TODO App
 </a>
-![My Cool App](https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png?raw=true)
-
-Description: This is a fantastic app for task management.
+<img src="https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png?raw=true" height="200">
 
 Technologies: Fastapi, (HTML, CSS)
+Description: This is a fantastic app for task management.
