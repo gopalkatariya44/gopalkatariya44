@@ -28,7 +28,7 @@
 <b> **My Project**</b>
 <a href="https://github.com/gopalkatariya44/fastapi-todo">
 <div class="card">
-  <img src="ss/home.png" alt="Avatar" style="width:100%">
+  <img src="https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>TODO App</b></h4> 
     <p>Fastapi</p> 
