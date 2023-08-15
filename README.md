@@ -14,7 +14,7 @@
 <a href="https://github.com/gopalkatariya44/fastapi-todo">
 ### Project 1: My Cool App
 </a>
-![My Cool App]([ss/home.png](https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png?raw=true))
+![My Cool App](https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png?raw=true)
 
 Description: This is a fantastic app for task management.
 
