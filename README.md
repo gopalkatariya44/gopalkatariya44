@@ -17,4 +17,5 @@
 </a>
 
 Technologies: Fastapi, (HTML, CSS)
+<br>
 Description: This is a fantastic app for task management.
