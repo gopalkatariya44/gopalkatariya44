@@ -12,13 +12,10 @@
 
 <b> **My Project**</b>
 <a href="https://github.com/gopalkatariya44/fastapi-todo">
-<div style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 40%;">
-  <img src="https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png?raw=true" alt="Avatar" style="width:100%">
-  <div style="padding: 2px 16px;">
-    <h4><b>TODO App</b></h4> 
-    <p>Fastapi</p> 
-  </div>
-</div>
+### Project 1: My Cool App
 </a>
+![My Cool App]([ss/home.png](https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png?raw=true))
+
+Description: This is a fantastic app for task management.
+
+Technologies: Fastapi, (HTML, CSS)
