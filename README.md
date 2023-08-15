@@ -11,10 +11,7 @@
 - ✅ Reach out to me on <a href = "https://www.linkedin.com/in/gopalkatariya44/">LinkedIn</a> or <a href= "https://medium.com/@gopalkatariya">Medium</a>
 
 <b> **My Project**</b>
-<a href="https://github.com/gopalkatariya44/fastapi-todo">
 ### Project 1: TODO App
-</a>
-<img src="https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png?raw=true" height="200">
-
+<a href="https://github.com/gopalkatariya44/fastapi-todo"><img src="https://github.com/gopalkatariya44/fastapi-todo/blob/todo/ss/home.png?raw=true" height="200"></a>
 Technologies: Fastapi, (HTML, CSS)
 Description: This is a fantastic app for task management.
