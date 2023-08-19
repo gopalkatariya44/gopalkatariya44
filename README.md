@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 <h4>Passionate about pioneering technology and unlocking insights through cutting-edge Computer Vision, Deep Learning, and Machine Learning techniques. Adept at harnessing the power of AWS cloud services to drive innovation and create transformative solutions. Excited to contribute to the dynamic landscape of AI and bring impactful ideas to life.</h4>
-<b><a href = "https://www.linkedin.com/in/gopalkatariya44/">LinkedIn Profile</a> | <a href= "https://medium.com/@gopalkatariya">Medium Profile</a> | <a href="#"> Google Scholar Profile </a> | <a href="https://leetcode.com/katariyagopal44/" target="_blank"> Leet Code </a></b><br><br>
+<b><a href = "https://www.linkedin.com/in/gopalkatariya44/">LinkedIn Profile</a> | <a href= "https://medium.com/@gopalkatariya">Medium Profile</a> | <a href="#"> Google Scholar Profile </a> | <a href="https://leetcode.com/katariyagopal44/" target="_blank" rel="noopener noreferrer"> Leet Code </a></b><br><br>
 </div>
 
 
