@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopal Katariya</h1>
 
-# [**Hey! Nice to See You**](https://github.com/gopalkatariya44)
-
-Welcome to my page!
+Hey! Nice to See You, Welcome to my page!
 
 **Full-Stack Developer with AI Focus** from 🇮🇳
 
