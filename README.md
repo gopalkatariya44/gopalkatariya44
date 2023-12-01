@@ -4,7 +4,7 @@ Hey! Nice to See You, Welcome to my page!
 
 **Full-Stack Developer with AI Focus** from 🇮🇳
 
-🔗 Backend Developer | 🌐 Web Developer | 🤖 AI Enthusiast | 📱 App Developer
+🤖 AI Enthusiast
 
 - Crafting digital experiences through elegant web solutions, intelligent AI systems, and innovative mobile apps.
 
