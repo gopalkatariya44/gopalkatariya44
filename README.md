@@ -38,7 +38,6 @@ Hey! Nice to See You, Welcome to my page!
 <a>![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)</a>
 
 <br>
-<br>
 
 # **Where to Find me**
 
