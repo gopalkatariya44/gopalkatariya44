@@ -37,8 +37,6 @@ Hey! Nice to See You, Welcome to my page!
 <a>![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)</a>
 <a>![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)</a>
 
-<br>
-
 # **Where to Find me**
 
 <a href="https://www.linkedin.com/in/gopalkatariya44">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
