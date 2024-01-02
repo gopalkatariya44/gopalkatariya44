@@ -1,10 +1,10 @@
-<a href='https://gopalkatariya44.github.io/'><h1 align="center">Hi 👋, I'm Gopal Katariya</h1></a>
+<h1 align="center">Hi 👋, I'm Gopal Katariya</h1>
 
 Hey! Nice to See You, Welcome to my page!
 
 **AI Engineer** from 🇮🇳
 
-🤖 AI Enthusiast
+🤖 AI Engineer | Machine Learning Enthusiast | Transforming Ideas into Intelligent Solutions
 
 - Crafting digital experiences through intelligent AI systems.
 
