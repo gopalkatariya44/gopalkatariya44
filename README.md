@@ -39,9 +39,9 @@ Hey! Nice to See You, Welcome to my page!
 
 # **Where to Find me**
 
-<a href="https://gopalkatariya44.github.io/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white){:target="_blank" rel="noopener"}</a>
-<a href="https://www.linkedin.com/in/gopalkatariya44" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://gopalkatariya.medium.com/" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-<a href="https://leetcode.com/gopalkatariya44/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-<a href="https://twitter.com/GopalKatariya44" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-<a href="https://youtube.com/@gopalkatariya44?si=fUvhOh6_DPZYwyda" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+<a href="https://gopalkatariya44.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/gopalkatariya44">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://gopalkatariya.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://leetcode.com/gopalkatariya44/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://twitter.com/GopalKatariya44">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+<a href="https://youtube.com/@gopalkatariya44?si=fUvhOh6_DPZYwyda">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
