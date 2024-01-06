@@ -39,7 +39,7 @@ Hey! Nice to See You, Welcome to my page!
 
 # **Where to Find me**
 
-<a href="https://gopalkatariya44.github.io/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a href="https://gopalkatariya44.github.io/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white){:target="_blank" rel="noopener"}</a>
 <a href="https://www.linkedin.com/in/gopalkatariya44" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://gopalkatariya.medium.com/" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://leetcode.com/gopalkatariya44/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
