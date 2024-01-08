@@ -10,7 +10,7 @@ Hey! Nice to See You, Welcome to my page!
 
 - Building the future of technology one line of code at a time. Let's shape it together!
 
-- Explore my repositories to witness the fusion of creativity, code, and cutting-edge technology. 🚀
+- Explore my repositories to witness the fusion of creativity, code, and cutting-edge technology. 🚀🚀
 
 ### **Languages & Libraries**
 
