@@ -40,7 +40,7 @@ Hey! Nice to See You, Welcome to my page!
 
 # **Where to Find me**
 
-<a href="https://gopalkatariya44.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a href="https://gopalkatariya.online/">![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/gopalkatariya44">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://gopalkatariya.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://leetcode.com/gopalkatariya44/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
