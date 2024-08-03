@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gopal Katariya</h1>
+<h1 align="center">Hi 👋, I'm Gopal Katariya </h1>
 
 Hey! Nice to See You, Welcome to my page!
 
